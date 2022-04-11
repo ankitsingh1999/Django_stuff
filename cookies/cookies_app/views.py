@@ -1,4 +1,5 @@
 from django.shortcuts import render
+import random, json
 
 # Create your views here.
 def set_cookie(request):
